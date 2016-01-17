@@ -10,7 +10,7 @@ code samples of my work
 [NY_Tools_Docs.pdf](NY_Tools_UnityProj/NY_Tools_Docs.pdf) Description about tools
 
 ###[TextParser](TextParser)
-A stand-alone Python GUI tool designed to replace characters using characters given. User has flexible to change both find and replace characters which is upto 5. GUI was designed using PySide.
+A stand-alone Python GUI tool designed to replace characters using characters given. User has flexible to change both find and replace characters which is upto 5. GUI was designed using PySide(Qt).
 
 ###Individual files
 [TextureCompressor_UI](Individual files/TextureCompressor_UI.cs) A Unity Editor script that grabs textures from models, duplicates them, compresses its size and creates a prefab with new textures created.
